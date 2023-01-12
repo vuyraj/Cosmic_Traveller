@@ -1,5 +1,6 @@
 # cosmic_traveller
 a game for Opera GX Game Jam
+made from game maker
 
 
 Cosmic Traveller
